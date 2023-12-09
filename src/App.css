@@ -1,0 +1,38 @@
+body {
+  background-color: #0e1014;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arimo", sans-serif;
+  font-family: "Inter", sans-serif;
+}
+
+.main-span {
+  background: linear-gradient(to right, #fcb045, #ff3f78);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.main-second-gradient {
+  background: linear-gradient(to right, #fcb045, #fd1d1d);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.main-button {
+  background-color: #4077f3;
+}
+
+.main-bg-img {
+  background: url(./assets/main/bg.png) no-repeat;
+}
+
+.main-bg {
+  background-color: #fcb045;
+}
+
+.footer-h3 {
+  color: #656566;
+}
